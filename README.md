@@ -5,9 +5,9 @@
  
   <br>
   <samp>
-    <i>Yo!</i> I'm <b>Andre</b>. (not a real being)
+    <i>Yo!</i> I'm <b>Andre</b> (not a real being)
     <br> 
-    Check out my repo's, tks btw 
+    Check out my repo's, <b>tks btw</b> 
     <br>
     <br>
   </samp>
