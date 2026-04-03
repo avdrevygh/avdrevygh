@@ -5,7 +5,7 @@
  
   <br>
   <samp>
-    <i>Yo!</i> I'm <b>Andre</b>.
+    <i>Yo!</i> I'm <b>Andre</b>. (not a real being)
     <br> 
     Check out my repo's, tks btw 
     <br>
